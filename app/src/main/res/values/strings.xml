@@ -1,0 +1,15 @@
+<resources>
+	<string name="app_name">PublicHoliday</string>
+
+	<!--	HistoryFragment-->
+	<string name="country_title">Countries</string>
+	<string name="holidays_title">Holidays</string>
+
+	<!--	DetailsFragment-->
+	<string name="dateLabel">Date</string>
+	<string name="localNameLabel">Local name</string>
+	<string name="nameLabel">English name</string>
+	<string name="fixedLabel">Fixed</string>
+	<string name="globalLabel">Global</string>
+	<string name="launchYearLabel">Launch year</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="padding_16">16dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_15">15dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+
+    <dimen name="corner_radius">9dp</dimen>
+
+    <dimen name="title_text_size">22sp</dimen>
+    <dimen name="country_name_text_size">17sp</dimen>
+    <dimen name="list_name_text_size">15sp</dimen>
+    <dimen name="header_text_size">25sp</dimen>
+</resources>
